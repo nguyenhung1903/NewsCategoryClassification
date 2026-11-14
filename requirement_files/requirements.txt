@@ -1,0 +1,8 @@
+matplotlib
+beautifulsoup4
+pandas
+wordcloud
+gdown
+seaborn
+nltk
+pvvi
